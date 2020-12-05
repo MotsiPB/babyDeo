@@ -1,0 +1,7 @@
+{
+    "name": "brunapp",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
